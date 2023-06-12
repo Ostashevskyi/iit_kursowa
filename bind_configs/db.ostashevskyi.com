@@ -7,6 +7,6 @@ $TTL	604800
 				604800 )	; Negative Cache TTL
 ostashevskyi.com.	IN	NS	ns1.ostashevskyi.com.
 ;
-@	IN	A	54.227.12.166
-ns1	IN	A	54.227.12.166
-www	IN	A	54.227.12.166
+@	IN	A	3.223.28.129
+ns1	IN	A	3.223.28.129
+www	IN	A	3.223.28.129

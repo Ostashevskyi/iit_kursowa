@@ -9,25 +9,38 @@
 1=src
 2=bind_configs
 
+[save-as]
+0=/home/ec2-user/bind_configs/db.ostashevskyi.com
+
+[mc.shared.search]
+0=extension
+
 [input2]
 0=/my-app
 1=/my-app/
 2=/bind_configs/
 3=/home/ec2-user/
 4=/home/ec2-user/my-app/
+5=/home/ec2-user/me-app/src
+6=/home/ec2-user/my-app/src
 
 [cmdline]
 0=s
 1=nani Dockerfile
 2=nano Dockerfile
-3=[B
-4=a
-5=[C 
-6=[C  
-7=eit
-8=sudo nano named.conf.oprions
-9=sudo nano named.conf.options
-10=
+3=a
+4=[C 
+5=[C  
+6=eit
+7=sudo nano named.conf.oprions
+8=sudo nano named.conf.options
+9=3
+10=[B
+11=[21~
+12=.. 
+13=OA
+14=
+15=OC
 
 [Dir Hist New Right Panel]
 0=/var/account
@@ -43,26 +56,35 @@
 0=/home/ec2-user/.local/share/mc
 1=/home/ec2-user/.local/share
 2=/home/ec2-user/.local
-3=/home/ec2-user/.config
-4=/media
-5=/run
-6=/var/cache
-7=/var
-8=/home/ec2-user/.ssh
-9=/home/ec2-user/src
-10=/home/ec2-user/my-app/bind_configs/bind
-11=/home/ec2-user/my-app/bind_config.tar.gz/utar://bind
-12=/home/ec2-user/my-app/bind_config.tar.gz/utar://
-13=/etc
-14=/tmp
-15=/
-16=/home/ec2-user/my-app/bind_configs
-17=/home/ec2-user/bind_config.tar.gz/utar://bind
-18=/home/ec2-user/bind_config.tar.gz/utar://
-19=/home
-20=/home/ec2-user/bind_config
-21=/home/ec2-user/bind_configs
-22=/home/ec2-user/my-app/src
-23=/home/ec2-user/my-app/mysql_data
-24=/home/ec2-user/my-app
-25=/home/ec2-user
+3=/media
+4=/run
+5=/var/cache
+6=/home/ec2-user/.ssh
+7=/home/ec2-user/src
+8=/home/ec2-user/my-app/bind_configs/bind
+9=/home/ec2-user/my-app/bind_config.tar.gz/utar://bind
+10=/home/ec2-user/my-app/bind_config.tar.gz/utar://
+11=/tmp
+12=/home/ec2-user/my-app/bind_configs
+13=/home/ec2-user/bind_config.tar.gz/utar://bind
+14=/home/ec2-user/bind_config.tar.gz/utar://
+15=/home/ec2-user/bind_config
+16=/home/ec2-user/.config
+17=/home/ec2-user/my-app/mysql_data
+18=/etc/php.d
+19=/etc/php-fpm.d
+20=/etc/NetworkManager
+21=/ExamSeatArrangementSystem
+22=/etc
+23=/home/ec2-user/my-app/src/src
+24=/home/ec2-user/my-app/src/ExamSeatArrangementSystem
+25=/home
+26=/var/www/html
+27=/var/www
+28=/var
+29=/
+30=/home/ec2-user/bind_configs
+31=/home/ec2-user
+32=/home/ec2-user/my-app
+33=/home/ec2-user/my-app/src/simple-ecomme
+34=/home/ec2-user/my-app/src
