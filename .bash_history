@@ -399,3 +399,492 @@ sudo docker container
 history
 sudo docker ps
 exit
+git init
+git add README.md
+git commit -m "added project"
+git add .
+git commit -m "added project"
+git branch -M main
+git remote add origin https://github.com/Ostashevskyi/Iit_kursowa.git
+git push -u origin main
+git add --ignore-errors .
+git commit -m "added project"
+git push -u origin main
+cls
+clear
+git remote add origin git@github.com:Ostashevskyi/Iit_kursowa.git
+git remote remove origin
+git remote add origin git@github.com:Ostashevskyi/Iit_kursowa.git
+git push -u origin main
+ls
+touch README.md
+ls
+git init
+git add REDME.md
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git branch
+git log
+git remote add origin git@github.com:Ostashevskyi/Iit_kursowa.git
+git push -u origin main
+history
+git remote remove origin
+git remote add origin https://github.com/Ostashevskyi/iit_kursowa.git
+git push -u origin main
+git config --global user.name "Ostashevskyi"
+git config --global user.email "Manka1230"
+git config -l
+git push -u origin main
+clear
+git push -u origin main
+[B
+ls
+mc
+sudo docker ps
+clear
+sudo docker images
+docker -v
+clear
+docker -v
+sudo docker images
+sudo docker container
+sudo docker containers
+sudo docker container ls
+clear
+sudo docker container ls
+exit
+sudo docker ps
+exit
+sudo docker ps
+docker inspect bind9-container
+sudo docker inspect bind9-container
+nslookup 172.17.0.2
+ip a
+clear
+nslookup
+ip a
+nslookup
+exit
+sudo docker ps
+sudo docker exec -it 38c7c2ed0887 bash
+tcpdump
+sudo tcpdump port 53 and udp
+ip a
+sudo tcpdump -nni enX0 port 53 and udp
+ip a
+nslookup 
+exit
+sudo docker ps
+history
+sudo docker exec -it 38c7c2ed0887 bash
+cd etc/
+ls
+mc
+ls
+nano db.ostashevskyi.com
+sudo nano db.ostashevskyi.com
+sudo docker container
+sudo docker containers
+sudo docker containers ls
+sudo docker containes ls
+sudo docker container ls
+history |grep 
+history |grep bind9-container
+sudo docker kill bind9-container
+sudo docker container ls
+history |grep bind9-container
+sudo docker run -d --name bind9-container --restart unless-stopped -e TZ=UTC -p 53:53 -p 53:53/udp -v /home/ec2-user/bind_configs:/etc/bind/ ubuntu/bind9:latest
+sudo docker rm 
+sudo docker rm  38c7c2ed08876ac8a08d30df0e70fc686a7f811a28bbd98306a65649180a181
+sudo docker run bind9-container
+sudo docker run /bind9-container
+sudo docker rm bind9-container
+sudo docker rm  38c7c2ed08876ac8a08d30df0e70fc686a7f811a28bbd98306a65649180a181
+sudo docker run -d --name bind9-container --restart unless-stopped -e TZ=UTC -p 53:53 -p 53:53/udp -v /home/ec2-user/bind_configs:/etc/bind/ ubuntu/bind9:latest
+ls
+nano db.ostashevskyi.com
+ls
+nano named.conf.local
+ls
+nano named.conf.options
+exit
+docker ps
+sudo docker ps
+sudo docker 319bc2188b65
+sudo docker inspect 319bc2188b65
+sudo docker ps
+sudo docker exec 319bc2188b65 bash
+history |gerp exec
+history |grep exec
+sudo docker -it exec 319bc2188b65 bash
+history |grep exec
+sudo docker exec -it my-mysql bash
+sudo docker container ls
+sudo docker exec -it my-mysql:latet bash
+sudo docker exec -it my-mysql bash
+ls
+mc
+history |grep my-sql
+history |grep my-mysql
+sudo docker exec -it my-mysql bash
+git
+git branch
+git checkout feature/add_sql_user
+git checkout -b feature/add_sql_user
+git branch
+git add .
+sudo git add .
+sudo git commit -m 'created new mysql user'
+git push -u origin feature/create_mysql_user
+git branch
+git push -u origin feature/add_mysql_user
+git push -u origin feature/add_sql_user
+ls
+mc
+cd ../
+ls
+mc
+ls
+touch docker-compose.yml
+sudo nano docker-compose.yml
+docker -v
+ls
+mv docker-compose.yml my-app/
+ls
+cd my-app
+ls
+cd src
+sudo nano docker-compose.yml
+docker -v
+sudo docker container ls
+sudo docker exec -it 319bc2188b65
+sudo docker ps
+sudo docker exec -it 319bc2188b65 bash
+exit
+sudo docker ps
+history
+sudo docker exec -it 319bc2188b65 bash
+ls
+cd ../
+ls
+find php.ini
+sudo find php.ini
+sudo find / php.ini
+.. 
+[200~sudo find / -name php.ini 2>/dev/null~
+sudo find / -name php.ini
+cd /etc
+ls
+nano php.ini
+sudo docker exec -it 319bc2188b65 bash
+sudo docker ps
+sudo docker restart 319bc2188b65
+sudo docker restart 308054f38630
+sudo docker restart b3a5981a7de9
+sudo docker exec -it 308054f38630 bash
+apt-get install php7.3-mysqli
+apt install php7.3-mysqli
+sudo docker exec -it 308054f38630 bash
+sudo
+sudo apt install php-mysqli
+yum
+sudo yum intall php-mysqli
+sudo yum php-mysqli
+yum install php-mysqli
+sudo yum install php-mysqli
+docker ps
+sudodocker ps
+sudo docker ps
+sudo docker restart b3a5981a7de9
+sudo docker restart 319bc2188b65
+sudo docker restart 308054f38630
+history |grep exec
+sudo docker exec -it 319bc2188b65 bash
+history |grep exec
+sudo docker exec -it 308054f38630 bash
+sudo docjer yum install php-mysqli
+sudo yum install php-mysqli
+sudo docker exec -it 308054f38630 bash
+sudo docker restart 319bc2188b65
+mysqli
+mysqli -v
+
+sudo docker exec -it 308054f38630 bash
+cd etc
+ls
+cd ,,.
+cd ../
+cd etc
+cd ../
+cd etc
+ls
+sudo nano php.ini
+ls
+mc
+ls
+sudo docker container ps
+sudo docker exec -it 308054f38630
+sudo docker exec -it 308054f38630 bash
+sudo docker ps
+.. 
+ls
+cd my-app
+ls
+cd src
+ls
+rm *
+ls
+rm -rfv *
+ls
+git clone https://github.com/udaykarmakar/ExamSeatArrangementSystem.git
+ді
+ls
+mv EmaxSeatArrangmentSystem /
+mv ExamSeatArrangmentSystem /
+mv ExamSeatArrangementSystem /
+sudo mv ExamSeatArrangementSystem /
+ls
+mc
+ls
+rm -rvf ExamSeatArrangementSystem
+sudo rm -rvf ExamSeatArrangementSystem
+ls
+cd etc
+ls
+mc
+git clone https://github.com/udaykarmakar/ExamSeatArrangementSystem.git
+mv ExamSeatArrangementSystem src/
+ls
+mc
+sudo rm -rvf src
+git clone https://github.com/udaykarmakar/ExamSeatArrangementSystem.git
+ls
+mv ExamSeatArrangementSystem/* src/
+mc
+sudo docker ps
+sudo docker restart 308054f38630
+sudo docker exec -it b3a5981a7de9 bash
+history |grep run
+sudo docker ps
+sudo docker stop 308054f38630
+sudo docker rm 308054f38630
+docker ps
+sudo docker ps
+history |grep run
+sudo docker run -d --restart unless-stopped -e TZ=UTC -p 80:80 --name my-running-app my-php-app
+sudo docker ps
+sudo docker exec -it 7d3c932d59f0 bash
+mc
+sudo docker exec -it 7d3c932d59f0 bash
+mc
+nano DOCKERFILE
+ls
+nano Dockerfile
+sudo docker ps
+sudo docker stop 7d3c932d59f0
+sudo docker rm 7d3c932d59f0
+sudo docker run -d --restart unless-stopped -e TZ=UTC -p 80:80 --name my-running-app my-php-app
+sudo docker ps
+sudo docker exec -it c44f9ff55083 bash
+sudo docker ps
+ді
+ls
+cd my-app
+ls
+nano Dockerfile
+cd src
+ls
+mc
+sudo docker exec -it c44f9ff55083
+sudo docker exec -it c44f9ff55083 bash
+mc
+cd ~
+mc
+docker build -t my-php-app
+docker build -t my-php-app .
+sudo docker build -t my-php-app .
+docker image
+docker images
+sudo docker images
+sudo docker rm image my-php-app
+sudo docker image rm my-php-app
+docker images
+sudo docker images
+sudo docker image rm <none>
+sudo docker image rm none
+sudo docker image rm b630271139379
+sudo docker image rm b63027139379
+sudo docker stop c44f9ff55083
+sudo docker image rm b63027139379
+sudo docker container ls
+sudo docker rm c44f9ff55083
+sudo docker image rm b63027139379
+sudo docker image rm my-php-app
+sudo docker build -t my-php-app .
+sudo docker images
+sudo docker ps
+history |grep run
+sudo docker run -d --restart unless-stopped -e TZ=UTC -p 80:80 --name my-running-app my-php-app
+sudo docker ps
+sudo docker exec -it 120bbcaf16c1
+sudo docker exec -it 120bbcaf16c1 bash
+sudo docker ps
+sudo docker exec 319bc2188b65
+sudo docker exec -it 319bc2188b65 bash 
+sudo docker ps
+sudo docker restart 319bc2188b65
+sudo docker exec -it 120bbcaf16c1 bash
+sudo docker inspect 120bbcaf16c1
+sudo docker exec -it 120bbcaf16c1 bash
+sudo docker ps
+sudo docker restart 120bbcaf16c1
+sudo docker restart 319bc2188b65
+sudo docker exec -it 120bbcaf16c1 bash
+sudo docker ps
+sudo docker inspect 319bc2188b65
+sudo docker exec -it 120bbcaf16c1 bash
+sudo docker ps
+sudo docker restart 120bbcaf16c1
+sudo docker exec -it 120bbcaf16c1 bash
+sudo docker restart 120bbcaf16c1
+sudo docker exec -it 120bbcaf16c1 bash
+sudo docker restart 120bbcaf16c1
+sudo docker exec -it 120bbcaf16c1 bash
+sudo docker restart 120bbcaf16c1
+sudo docker exec -it 120bbcaf16c1 bash
+sudo docker restart 120bbcaf16c1
+sudo docker exec -it 120bbcaf16c1 bash
+sudo docker restart 120bbcaf16c1
+sudo docker exec -it 120bbcaf16c1 bash
+sudo docker restart 120bbcaf16c1
+sudo docker exec -it 120bbcaf16c1 bash
+sudo docker restart 120bbcaf16c1
+sudo docker exec -it 120bbcaf16c1 bash
+sudo docker restart 120bbcaf16c1
+sudo docker exec -it 120bbcaf16c1 bash
+sudo docker restart 120bbcaf16c1
+ls
+cd my-app
+ls
+cd src
+ls
+mc
+git clone https://github.com/jenil/simple-ecomme.git
+mc
+history |grep build
+sudo docker ps
+sudo docker stop 120bbcaf16c1
+sudo docker rm 120bbcaf16c1
+sudo docker images
+sudo docker build -t kursowa .
+ls
+cd ../
+sudo docker build -t kursowa .
+cd my-app
+nano Dockerfile
+sudo docker image rm 120bbcaf16c1
+sudo docker images
+sudo docker image rm 5f7832ebd980
+sudo docker images
+sudo docker ps
+sudo docker build -t my-php-app .
+cd my-app
+ls
+history |grep run
+sudo docker run -d --restart unless-stopped -e TZ=UTC -p 80:80 --name my-running-app my-php-app
+sudo docker ps
+clear
+sudo docker ps
+sudo docker exec -it b3a5981a7de9
+sudo docker exec -it b3a5981a7de9 bash
+sudo docker exec -it 319bc2188b65
+sudo docker exec -it 319bc2188b65 bash
+sudo docker ps
+sudo docker exec -it 72c9048b7fe0 bash
+sudo docker inspect 319bc2188b65
+sudo docker exec -it 72c9048b7fe0 bash
+sudo docker ps
+sudo docker restart 319bc2188b65
+sudo docker restart 72c9048b7fe0
+sudo docker exec -it 72c9048b7fe0 bash
+sudo docker restart 319bc2188b65
+sudo docker exec -it 72c9048b7fe0 bash
+sudo docker restart 319bc2188b65
+sudo docker exec -it 72c9048b7fe0 bash
+sudo docker restart 319bc2188b65
+sudo docker ps
+sudo docker exec -it 72c9048b7fe0 bash
+sudo docker restart 319bc2188b65
+sudo docker exec -it 72c9048b7fe0 bash
+sudo docker restart 319bc2188b65
+sudo docker exec -it 72c9048b7fe0 bash
+sudo docker restart 319bc2188b65
+sudo docker exec -it 72c9048b7fe0 bash
+sudo docker restart 319bc2188b65
+sudo docker exec -it 72c9048b7fe0 bash
+sudo docker restart 319bc2188b65
+sudo docker exec -it 72c9048b7fe0 bash
+sudo docker restart 319bc2188b65
+sudo docker exec -it 72c9048b7fe0 bash
+sudo docker restart 319bc2188b65
+sudo docker exec -it 72c9048b7fe0 bash
+sudo docker restart 319bc2188b65
+sudo docker exec -it 72c9048b7fe0 bash
+sudo docker restart 319bc2188b65
+sudo docker exec -it 72c9048b7fe0 bash
+sudo docker restart 319bc2188b65
+sudo docker exec -it 72c9048b7fe0 bash
+sudo docker restart 319bc2188b65
+sudo docker exec -it 72c9048b7fe0 bash
+sudo docker restart 319bc2188b65
+sudo docker exec -it 72c9048b7fe0 bash
+sudo docker restart 319bc2188b65
+sudo docker exec -it 72c9048b7fe0 bash
+sudo docker restart 319bc2188b65
+sudo docker exec -it 72c9048b7fe0 bash
+sudo docker restart 319bc2188b65
+sudo docker exec -it 72c9048b7fe0 bash
+sudo docker restart 319bc2188b65
+sudo docker exec -it 72c9048b7fe0 bash
+sudo docker restart 319bc2188b65
+sudo docker exec -it 72c9048b7fe0 bash
+sudo docker restart 319bc2188b65
+sudo docker exec -it 72c9048b7fe0 bash
+sudo docker restart 319bc2188b65
+sudo docker exec -it 72c9048b7fe0 bash
+sudo docker ps
+sudo docker exec -it 72c9048b7fe0 bash
+sudo docker exec -it 319bc2188b65
+sudo docker exec -it 319bc2188b65 bash
+sudo docker exec -it 72c9048b7fe0 bash
+sudo docker exec -it 319bc2188b65 bash
+sudo docker exec -it 72c9048b7fe0 bash
+sudo docker ps
+OUTPUT=$(ps aux | grep my-php-app)
+OUTPUT=$(ps aux | grep 72c9048b7fe0)
+sudo service httpd restart
+sudo service php restart
+sudo service my-php-app restart
+$sudo chown nobody /var/www/html/mysite/images/
+cd /var
+cd /var/www/html/mysite
+cd /var/www/html
+ls
+cd ../
+sudo docker exec -it 72c9048b7fe0 bash
+ls
+cd ~
+ls
+sudo docker exec -it 72c9048b7fe0 bash
+docker ps
+sudo docker ps
+sudo docker restart 72c9048b7fe0
+sudo docker exec -it 72c9048b7fe0 bash
+php --ini
+cd /etc
+nano php.ini
+sudo nano php.ini
+sudo docker ps
+sudo docker inspect 319bc2188b65
+sudo docker ps
